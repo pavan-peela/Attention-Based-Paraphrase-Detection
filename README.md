@@ -1,7 +1,4 @@
 # Paraphrase Detection using Attention Mechanism
-Pavan Kumar Peela
-Nishant Kulkarni
-Shree Nath Dutt Sharma
 
 ## Base Model
 We use the bilateral multi-perspective matching (BiMPM) model by Zhiguo Wang, Wael Hamza, and Radu Florian.
@@ -37,3 +34,6 @@ The following embeddings needs to be download to get started.
 2. Running any of the files for the first time would extract the glove embeddings and put them in cache/.
 3. For subsequent runs, the model will just load the embeddings from the cache.
 4. Two models (GRU and LSTM) each with and without an Attention Layer have been implemented.
+
+
+                                        -------- X  Pavan Kumar Peela  X --------
