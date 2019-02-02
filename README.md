@@ -1,5 +1,7 @@
 # Paraphrase Detection using Attention Mechanism
                                           --- Pavan Kumar Peela ---
+                                          --- Nishanth Kulkarni ---
+                                          --- Shreenath Dutt Sharma ---
 
 ## Base Model
 We use the bilateral multi-perspective matching (BiMPM) model by Zhiguo Wang, Wael Hamza, and Radu Florian.
